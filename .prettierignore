@@ -1,0 +1,22 @@
+# Output de build
+dist
+build
+
+# Dependências
+node_modules
+
+# Arquivos de lock e logs
+package-lock.json
+*.log
+npm-debug.log*
+
+# Cobertura de testes
+coverage
+.nyc_output
+
+# IDE e sistema
+.antigravity
+.gemini
+.vscode
+.idea
+.DS_Store
